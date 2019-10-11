@@ -1,0 +1,7 @@
+
+BIOS ==> Basic input/output
+MBR ==> Master boot record
+GRUB ==> Grand initiesed bootloade 
+Kernel ==> kernel
+init ==> init
+Runlevel ==> runlevel
