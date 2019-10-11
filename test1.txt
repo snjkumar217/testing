@@ -1,8 +1,9 @@
 
 semange
-jai 
-shree
-ram
-aja
-asdasd
-assdsas
+firewall-cmd
+ls
+pwd
+netstat
+tee
+yum
+
